@@ -1,0 +1,17 @@
+C:\Users\CL3-PC25\source\repos\rental\bin\Debug\net8.0-windows\rental.exe
+C:\Users\CL3-PC25\source\repos\rental\bin\Debug\net8.0-windows\rental.deps.json
+C:\Users\CL3-PC25\source\repos\rental\bin\Debug\net8.0-windows\rental.runtimeconfig.json
+C:\Users\CL3-PC25\source\repos\rental\bin\Debug\net8.0-windows\rental.dll
+C:\Users\CL3-PC25\source\repos\rental\bin\Debug\net8.0-windows\rental.pdb
+C:\Users\CL3-PC25\source\repos\rental\obj\Debug\net8.0-windows\rental.Form1.resources
+C:\Users\CL3-PC25\source\repos\rental\obj\Debug\net8.0-windows\rental.Login.resources
+C:\Users\CL3-PC25\source\repos\rental\obj\Debug\net8.0-windows\rental.csproj.GenerateResource.cache
+C:\Users\CL3-PC25\source\repos\rental\obj\Debug\net8.0-windows\rental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CL3-PC25\source\repos\rental\obj\Debug\net8.0-windows\rental.AssemblyInfoInputs.cache
+C:\Users\CL3-PC25\source\repos\rental\obj\Debug\net8.0-windows\rental.AssemblyInfo.cs
+C:\Users\CL3-PC25\source\repos\rental\obj\Debug\net8.0-windows\rental.csproj.CoreCompileInputs.cache
+C:\Users\CL3-PC25\source\repos\rental\obj\Debug\net8.0-windows\rental.dll
+C:\Users\CL3-PC25\source\repos\rental\obj\Debug\net8.0-windows\refint\rental.dll
+C:\Users\CL3-PC25\source\repos\rental\obj\Debug\net8.0-windows\rental.pdb
+C:\Users\CL3-PC25\source\repos\rental\obj\Debug\net8.0-windows\rental.genruntimeconfig.cache
+C:\Users\CL3-PC25\source\repos\rental\obj\Debug\net8.0-windows\ref\rental.dll
